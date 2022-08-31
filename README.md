@@ -7,7 +7,11 @@
  
  ### 👩‍💻 Cursando Sistemas de informação
  </div>
- 
+ <div align="center">
+  <a href="https://github.com/IngridFBalbino">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IngridFBalbino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IngridFBalbino&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
 
   <div align="center">

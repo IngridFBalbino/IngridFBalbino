@@ -1,7 +1,7 @@
 
   <div align="center">
    
- ### Hi there como você esta?👋
+ ### Hi there, como você está ?👋
  
 ### 😄 Bem-vindo ao meu Perfil !!
  
